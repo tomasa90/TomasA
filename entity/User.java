@@ -25,7 +25,7 @@ public class User {
 		this.email = email;
 		this.age = age;
 	}
-
+//laba diena
 	public int getId() {
 		return id;
 	}
